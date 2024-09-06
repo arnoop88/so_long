@@ -43,7 +43,7 @@
 
 ## Map file format
 
-Maps should be stored in .ber format and meet specific criteria:
+Maps should be stored in `.ber` format and meet specific criteria:
 - Surrounded by walls
 - Contains at least one collectible, one exit, and one starting position
 
